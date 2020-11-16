@@ -1,0 +1,98 @@
+[
+    {
+        "id_number": 1,
+        "first_name": "Tom",
+        "last_name": "Smith",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 2,
+        "first_name": "John",
+        "last_name": "Novak",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 3,
+        "first_name": "Adam",
+        "last_name": "James",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 4,
+        "first_name": "Nick",
+        "last_name": "Maddison",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 5,
+        "first_name": "Ana",
+        "last_name": "Lewis",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 6,
+        "first_name": "John",
+        "last_name": "Doe",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 7,
+        "first_name": "Emily",
+        "last_name": "Barnes",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 8,
+        "first_name": "Mave",
+        "last_name": "Lambert",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 9,
+        "first_name": "Jack",
+        "last_name": "Sparrow",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 10,
+        "first_name": "Emma",
+        "last_name": "Olsen",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 11,
+        "first_name": "Claire",
+        "last_name": "Niles",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    },
+    {
+        "id_number": 12,
+        "first_name": "Matt",
+        "last_name": "Linsder",
+        "has_bank_account": false,
+        "bank_name": "",
+        "balance": 0
+    }
+]
